@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/runoverlabs/.github/main/profile/logo.svg" alt="Runover Labs logo" width="160">
-</p>
-
-# Runover Labs 🚧
+# Runover Labs
 
 *Where projects go to get run over, by a car, or by the deadline.*
 
