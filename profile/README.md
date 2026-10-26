@@ -11,15 +11,16 @@ skid mark.
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| **Graveyard Factory Optimizer** | Plans and optimises production chains for Graveyard Keeper 2, so your spaghetti is at least efficient spaghetti. | Active |
-| **KanDev Forgejo plugin** | Lets [KanDev](https://github.com/kdlbs/kandev) (open-source AI agent workflow automation) use Forgejo instead of GitHub. | Coming soon |
-| **Sandbox Manager** | A command-line tool for managing [microsandbox](https://github.com/superradcompany/microsandbox) microVMs, keeping your host safe from your agents. | Active |
+| **[Graveyard Factory Optimizer](https://github.com/runoverlabs/graveyard-factory)** | Plans and optimises production chains for Graveyard Keeper 2, so your spaghetti is at least efficient spaghetti. Runs in your browser at [graveyard-factory.runoverlabs.dev](https://graveyard-factory.runoverlabs.dev/). | Active |
+| **[Sandbox Manager](https://github.com/runoverlabs/sandbox-manager)** | A command-line tool for managing [microsandbox](https://github.com/microsandbox/microsandbox) microVMs as per-project agent sandboxes, keeping your host (and your tokens) safe from your agents. Docs at [sandbox-manager.runoverlabs.dev](https://sandbox-manager.runoverlabs.dev/). | Active |
+| **[KanDev Forgejo plugin](https://github.com/runoverlabs/kandev-plugin-forgejo)** | Lets [KanDev](https://github.com/kdlbs/kandev) (open-source AI agent workflow automation) use a self-hosted Forgejo or Gitea instead of GitHub. | Active |
+| **[KanDev microsandbox plugin](https://github.com/runoverlabs/kandev-plugin-microsandbox)** | Runs each [KanDev](https://github.com/kdlbs/kandev) session in its own microsandbox microVM on separate sandbox hosts, driven by Sandbox Manager. | Early days |
 
 ## Get involved
 
 - Found a bug or have an idea? Open an issue on the relevant repository.
-- Want to contribute? Read [CONTRIBUTING.md](../CONTRIBUTING.md).
-- Found a security problem? See [SECURITY.md](../SECURITY.md).
-- Everyone is expected to follow the [Code of Conduct](../CODE_OF_CONDUCT.md).
+- Want to contribute? Read [CONTRIBUTING.md](https://github.com/runoverlabs/.github/blob/main/CONTRIBUTING.md).
+- Found a security problem? See [SECURITY.md](https://github.com/runoverlabs/.github/blob/main/SECURITY.md).
+- Everyone is expected to follow the [Code of Conduct](https://github.com/runoverlabs/.github/blob/main/CODE_OF_CONDUCT.md).
 
 Projects are MIT licensed unless a repository says otherwise.
